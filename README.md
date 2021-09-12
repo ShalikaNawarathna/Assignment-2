@@ -4,6 +4,7 @@ Q2)
 Questions must be paste in the readme file.
 
 2-Clone your repository.
+
 $ git clone  https://github.com/ShalikaNawarathna/Assignment-2.git
 Cloning into 'Assignment-2'...
 remote: Enumerating objects: 3, done.
@@ -13,6 +14,7 @@ remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
 Receiving objects: 100% (3/3), done.
 
 3- Add the text file that should have the answer of Q1.
+
  git add quiz1.txt
 
 4-Add another file to do the following.
